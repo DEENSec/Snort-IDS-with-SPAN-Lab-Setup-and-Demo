@@ -6,7 +6,9 @@
 
 This project provides a practical guide to deploying Snort, a powerful open-source Intrusion Detection System (IDS), integrated with port mirroring (Switched Port Analyzer, or SPAN) to enhance network security. By monitoring network traffic for malicious activities, the setup demonstrates how to detect threats such as ICMP pings, SSH brute-force attempts, and potential malware or DDoS attacks. The lab environment simulates a real-world network, using Snort to analyze traffic and generate alerts, enabling administrators to respond to potential security incidents effectively. The project emphasizes hands-on configuration, rule creation, and traffic analysis, making it suitable for both small and enterprise-level networks.
 For a comprehensive walkthrough, including detailed setup instructions and screenshots, refer to the full article: Implementing Snort IDS with Port Mirroring (SPAN) in Your Network.
-Project Objectives
+
+
+## Project Objectives
 
 ### Deploy Snort IDS
 
